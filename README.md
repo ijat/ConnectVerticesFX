@@ -1,6 +1,6 @@
 # ConnectVerticesFX
 
-A JavaFX application that can read vertices file (*.cv).
+A JavaFX application that can read vertices file (*.cv.txt).
 
 Created by Ijat (http://ijat.my)
 
@@ -15,7 +15,7 @@ License: GPLv3 (Read LICENSE file for more info)
 
 ### CV File Example
 
-Save this code as `example.cv`
+Save this code as `example.cv.txt`
 ```
 7
 0 50 45 1 3 4 
